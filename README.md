@@ -7,11 +7,9 @@ The workshop is organized as follows:
 2. [Organization](#organization)
     1. [Lab 0: Warm Up](#lab-0:-warm-up)
     2. [Lab 1: Cognitive Services](#lab-1:-cognitive-services)
-    3. [Lab 2: Custom Vision](#lab-2:-custom-vision)
-    4. [Lab 3: Data preparation](#lab-3:-data-preparation)
-    5. [Lab 4: Machine Learning 101](#lab-4:-machine-learning-101)
-    6. [Lab 5: Deep Learning](#lab-5:-deep-learning)
-    7. [Lab 6: Deploy](#lab-6:-deploy)
+    3. [Lab 2: Data preparation](#lab-2:-data-preparation)
+    4. [Lab 3: Training Models](#lab-3:-training-models)
+    5. [Lab 4: Deploy](#lab-4:-deploy)
 3. [Some resources](#Some-resources)
 4. [Useful links](#useful-links)
 
@@ -46,26 +44,18 @@ Finally, [VS Code](https://code.visualstudio.com/) is proposed as the tool to de
 
 In this Lab, you are going to explore the dataset of images given in this repository. 
 You are going to obtain some insights from the photos that you were given through the use of different out of the box services.
+Furthermore, you are going to build your first image classification model in the cloud. 
+In order to do this, you are going to use a Azure Custom Vision portal.
 
-### Lab 2: Custom Vision
-
-In this Lab, you are going to build your first image classification model in the cloud. 
-In order to do this, you are going to use a built-in Custom Vision model.
-
-### Lab 3: Data Preparation
+### Lab 2: Data Preparation
 
 After playing with some Azure services, in this Lab you are going to prepare the data for the training of a model.
 
-### Lab 4: Machine Learning 101
+### Lab 3: Training Models
 
-In this Lab, you are going to build a first image classification approach using an algorithm from the library [Scikit-learn](https://scikit-learn.org/stable/index.html). 
-The idea is to use one simple approach for fast prototyping.
+In this Lab, you are going to develop two image classifiers for our problem: a Random Forest classifier and a Convolutional Neural Network (Deep Learning) model. To achieve these models, you are going to use [Scikit-learn](https://scikit-learn.org/stable/index.html) and [Tensorflow with Keras](https://www.tensorflow.org/guide/keras).
 
-### Lab 5: Deep Learning
-
-With this Lab, you are going to develop a Convolutional Neural Network in order to create an image classification directly.
-
-### Lab 6: Deploy
+### Lab 4: Deploy
 
 Finally, choose one of the models in order to make it available to anyone from a webservice.
 

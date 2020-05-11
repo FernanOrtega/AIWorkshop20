@@ -35,7 +35,7 @@ In here, two type of environments are proposed: one remote based on Azure and th
 ---
 A Data Science Virtual Machine is configured for the remote environment.
 Before creating the remote environment, you must have an Azure subscription ([Try for free](#https://azure.microsoft.com/es-es/free/)).
-> Note that *Azure free accounts* do not support GPU enabled virtual machine SKUs.Note that the free.
+> Note that *Azure free accounts* do not support GPU enabled virtual machine SKUs.
 
 You should follow the next steps in order to configure it:
 

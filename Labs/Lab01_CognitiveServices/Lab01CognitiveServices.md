@@ -1,4 +1,4 @@
-# Lab 01: Ready for Machine Learning
+# Lab 01: Ready for Machine Learning with Cognitive Services
 
 ### Contents 
 
@@ -35,7 +35,7 @@ We are going to test this cognitive services using some of the photos our friend
 
 In this lab, we are going to use Azure Cognitive Services to check if they can be used to classify the different items of our friends storage.
 The main goal is to send some images to the Computer Vision API of Azure Cognitive Services to obtain:
-* a description
+* A description
 * Type of object 
 * Tags 
 In order to obtain the necessary information to identify the different objects.

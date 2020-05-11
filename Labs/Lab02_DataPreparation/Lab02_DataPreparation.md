@@ -36,7 +36,7 @@ Our friends provided us with an image dataset of different equipment.
 This information consists of raw and unformatted pixel data.
 Before training any Machine Learning model, there is a task called **Data Preparation** or **Data Preprocessing**.
 This task consists of cleaning and preprocessing the data in order to have a normalized and balanced dataset.
-It is important to emphasize that without the appropriate data, we can already train any model that won't fulfill the task for which it was designed.
+It is important to emphasize that without the appropriate data, we can't train a model that fulfill the task for which it was designed.
 *Data preprocessing* is a crucial task and much of the time goes into this step to design a good input data to ours Machine Learning models.
 
 Depending on the data the steps needed are different. 

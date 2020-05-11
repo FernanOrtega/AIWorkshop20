@@ -14,20 +14,20 @@
 Artificial Intelligence and Machine Learning were created to help people to save time in repetitive tasks.
 A couple of friends of us know that we learn some stuff of AI and they ask for some help to develop something that fits their necessities. 
 
-Our friends are mountain lovers and they enjoy going out to the mountain whenever they have time.
-Each season, they buy lots of new stuff and gear for going to the mountain and store all the mountain gear in a storage facility.
-However, this year they saw that they have lots of unused gear and they wanted to sell it on the internet.
-First of all, they have to make an inventory of what they owned, but they do not have time for that.
+Our friends are mountain lovers and they enjoy hiking and climbing whenever they have time.
+Each season, they buy lots of new mountain equipment and store them in a storage facility.
+However, this year they realized that they have lots of unused equipment that they wanted to sell it on the internet.
+First of all, they should make an inventory of what they owned, but they do not have time for that.
 
-So, they want us to make a mountain gear classifier so they can detect automatically which gear they have and sell it on the internet
-Thus, our Machine Learning project begin trying to help our friends in recognizing the different mountain gear that they have. 
+So, they want us to make a mountain equipment classifier so they can detect automatically which equipment they have and sell it on the internet
+Thus, our Machine Learning project begin trying to help our friends in recognizing the different mountain equipment that they have. 
 
 In addition, they provide us with some photos of the catalog of mountain products from a famous e-commerce shop.
 The idea is to use them so we can train and prove that our hypothesis works.
 This dataset of photos consists of different categories of the things that they had bought in the past from that shop.
 the file they gave us is called `dataset-images.zip` and it is inside the Lab folder.
 
-With all this information and the clear objective of making a clothes classifier, we want to research first the built-in Azure Cognitive Services for images.
+With all this information and the clear objective of implementing a mountain equipment classifier, we want to research first the built-in Azure Cognitive Services for images.
 We are going to test this cognitive services using some of the photos our friends have provided us and see what can we do.
 
 ## Objective
@@ -44,7 +44,7 @@ In order to obtain the necessary information to identify the different objects.
 ---
 
 This Lab has the following prerequisites:
-* Prepared the development environment.
+* Have prepared the development environment.
 * Have installed the Computer Vision Python SDK from [here](https://pypi.org/project/azure-cognitiveservices-vision-computervision/)
 ```bash
 ! pip install azure-cognitiveservices-vision-computervision

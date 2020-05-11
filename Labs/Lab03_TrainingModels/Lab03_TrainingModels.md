@@ -15,7 +15,7 @@ This time we are going to build our own Machine Learning models.
 After seeing how the Custom Vision performs, it was easy to see that it was difficult sometimes to predict the actual class of a given image.
 So, we suggested our friends that maybe we could create a Machine Learning model to adjust different parameters and see how this model classify the different images.
 
-As we already know, working in machine learning is an iterative process and takes time to have fine tune model and the first step is usually to develop some baseline models to compare with. For that reason and for the sake of reducing time, *"There's no need to reinvent the wheel"*.
+As we already know, working in machine learning is an iterative process and it takes time to fine tune a model. The first step is usually to develop some baseline models to compare with. For that reason, and for the sake of reducing time, *"There's no need to reinvent the wheel"*.
 Thus, we are going to build our classifier using a common Machine Learning framework: [**Scikit-learn**](https://scikit-learn.org/stable/index.html)
 This framework gives us the possibility to:
 * Explore different algorithms quickly and see which one works best.

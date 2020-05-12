@@ -1,0 +1,12 @@
+{
+    "subscription_id":"<subscription-id>",
+    "tenant_id":"<tenant_id>",
+    "resourceGroup":"aiworkshop",
+    "location":"westeurope",
+    "workspaceName": "aiworkshop",
+    "azUser":"<aad-user>",
+    "azPass":"<aad-password>",
+    "vmName":"<vm-name>",
+    "vm_user": "<vm-username>",
+    "vm_password": "<vm-password>"
+}
